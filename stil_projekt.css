@@ -1,0 +1,16 @@
+body {
+  background-image: url("SLIKE/POZADINA.jpg");
+  background-size: 1300px;
+  color: #0F6D5C;
+.podnaslov { font-family: 'Orbitron', sans-serif; text-align: center; font-size: 30px; color: #1E3496; }
+.naslov { font-family: HTML; text-align: center; font-size: 45px; color: #1E3496; }
+.p1 { font-family: 'Kanit', sans-serif; text-align: center; font-size: 25px; color: #006F5D; font-weight: 600; }
+.naslov2 { font-family: 'Orbitron', sans-serif; text-align: center; font-size: 30px; color: #480A4B; }
+.podnaslovi {font-family: 'Orbitron', sans-serif; font-size: 30px; color: #480A4B ;}
+.stupac {
+  float: left;
+  width: 30%;
+  padding: 3px;
+}
+.p2 { font-family: 'Kanit', sans-serif; font-size: 20px; color: #006F5D; font-weight: 500; }
+}
